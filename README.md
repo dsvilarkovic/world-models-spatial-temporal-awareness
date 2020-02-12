@@ -1,4 +1,4 @@
-README
+Run instructions
 ======
 
 If you are currently on local, use the link to go to the colab folder: [1] to run the model and experiments, where all the rollouts are, and where the dependencies are already satisfied. To run the code, you have to add the DL folder to “My Drive”
