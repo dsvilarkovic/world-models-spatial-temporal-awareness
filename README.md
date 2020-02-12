@@ -1,5 +1,8 @@
-Run instructions
+Analysis of spacial and temporal awareness of the World Models Agent
 ======
+[Report research paper is available](./ReportPaper.pdf)
+
+## Run instructions
 
 If you are currently on local, use the link to go to the colab folder: [1] to run the model and experiments, where all the rollouts are, and where the dependencies are already satisfied. To run the code, you have to add the DL folder to “My Drive”
 
@@ -16,3 +19,11 @@ The VizDoom folder and game is the following:
 https://github.com/shakenes/vizdoomgym
 
 [1]: https://drive.google.com/drive/folders/18EM1C7Z20uIOKThzCs_vV0zz1f6p5DM3?usp=sharing
+
+
+## Contributors
+
+Rafael Bischof <br/>
+Constantin Le Cleï <br/>
+[Dušan Svilarković](https://github.com/dsvilarkovic) <br/>
+Steven Battilana
