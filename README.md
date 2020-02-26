@@ -2,6 +2,18 @@ Analysis of spacial and temporal awareness of the World Models Agent
 ======
 [Report research paper is available](./ReportPaper.pdf)
 
+## Abstract 
+We explore a variation of the World Models architecture to visualize if intuitive human spatial and temporal representations are indeed captured by the reinforcement learning agent. We propose to enhance
+the VAE training such that it learns how to enlarge,
+in essence zooming out, given input frames. Using a
+scaling factor on input frames the VAE managed to
+learn how to scale an image and even predict a curve
+that was outside of the original image. Additionally,
+we managed to isolate the latent feature that provoked
+the scaling. We also verified that the RNN leaned the
+temporal information, and is for instance able to remember a fire ball that left the frame but reappears
+when enlarging the image, which the VAE failed to
+do.
 ## Run instructions
 
 If you are currently on local, use the link to go to the colab folder: [1] to run the model and experiments, where all the rollouts are, and where the dependencies are already satisfied. To run the code, you have to add the DL folder to “My Drive”
