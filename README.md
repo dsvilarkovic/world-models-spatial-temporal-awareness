@@ -35,7 +35,7 @@ https://github.com/shakenes/vizdoomgym
 
 ## Contributors
 
-Rafael Bischof <br/>
-Constantin Le Cleï <br/>
+[Rafael Bischof](https://github.com/rbischof) <br/>
+[Constantin Le Cleï](https://github.com/ConstantinLC) <br/>
 [Dušan Svilarković](https://github.com/dsvilarkovic) <br/>
-Steven Battilana
+[Steven Battilana](https://gitlab.ethz.ch/stevenb)
